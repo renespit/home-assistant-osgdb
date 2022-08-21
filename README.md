@@ -33,4 +33,12 @@ views:
         aspect_ratio: 100%
 ```
 
+# Known Issues
+I tested only on Apple OSX and Apple IOS. 
 
+If you run this program in the Home Assistant Application then you are not able to log in into your own account. Sessions inside iFrames don't work anymore.
+If there is somebody who can tell me how I can disbale Private Security for iFrames I would be very happy.
+
+If you run this program in the Home Assistant Application then you are not able to change the language setting. Because the language setting is saved into a cookie. Default Thirth Party Cookies are not allowed.
+
+If you run this program in the Home Assistant Application then you are not able to use the Shoppinglist. Because the language setting is saved into a cookie. Default Thirth Party Cookies are not allowed.
