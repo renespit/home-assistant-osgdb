@@ -5,7 +5,7 @@ Opensource Dishes Database (compatible with Home Assistant)
 
 Find in your console a nice dish and send the shoppinglist to your Home Assistant Shopping List.
 
-#Quick Start
+# Quick Start
 - Create a new dashboard
 - Open your new dashboard
 - Select 'Configure UI'
