@@ -48,7 +48,7 @@ Work around for these issues.
 2. Open your Dishes Dashboard
 3. Enable in Safari the Developer-Menu (Preferences -> Advanced Tab -> Show developer-menu in menubar)
 4. Open the Developer-Menu
-5. Disable 'Cross-Origin Restriction' (Be Careful!) This is a security setting) Cross-Origin Restriction are a PITA...
+5. Disable 'Cross-Origin Restriction' (Be Careful!) This is a security setting). **Cross-Origin Restriction are a PITA...**
 6. Disable 'Prevent Cross-Sitetracking' (Be Careful! This is a privacy setting)
 7. Now you are able to select a country. Create/Save/Login your account. Save the CSS of Home Assistant in https://osgdb.nl 
 
