@@ -42,3 +42,13 @@ If there is somebody who can tell me how I can disbale Private Security for iFra
 If you run this program in the Home Assistant Application then you are not able to change the language setting. Because the language setting is saved into a cookie. Default Thirth Party Cookies are not allowed.
 
 If you run this program in the Home Assistant Application then you are not able to use the Shoppinglist. Because the language setting is saved into a cookie. Default Thirth Party Cookies are not allowed.
+
+Work around for these issues.
+1. Open Home Assistant in Saffari
+2. Open your Dishes Dashboard
+3. Enable in Safari the Developer-Menu (Preferences -> Advanced Tab -> Show developer-menu in menubar)
+4. Open the Developer-Menu
+5. Select 'Disable Cross-Origin Restriction'
+6. Disable 'Prevent Cross-Sitetracking' (Be Careful! This is a privacy setting)
+7. Now you are able to select a country. Create/Save/Login your account. Save the CSS of Home Assistant in https://osgdb.nl 
+
