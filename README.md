@@ -52,3 +52,4 @@ Work around for these issues.
 6. Disable 'Prevent Cross-Sitetracking' (Be Careful! This is a privacy setting)
 7. Now you are able to select a country. Create/Save/Login your account. Save the CSS of Home Assistant in https://osgdb.nl 
 
+Still those setting will NOT work in the Home Assistant Application. I appriciate it if somebody tell me how to fix this.
