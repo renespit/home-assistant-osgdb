@@ -1,2 +1,4 @@
 # home-assistant-osgdb
-Opensource Dishes Database
+Opensource Dishes Database (compatible with home assistant)
+
+
